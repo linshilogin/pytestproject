@@ -55,6 +55,7 @@ def on_execution_report(context, execrpt):
     # 打印委托执行回报
     # print('ontrade:',execrpt)
     i=1
+    aa='i am dev'
 
 
 def on_order_status(context, order):
